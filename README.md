@@ -1,7 +1,7 @@
 # codsoft_taskno.3
 -This is my project repository for the "CODSOFT" Internship done during my summer vacation 2025.
 
-## Personal profolio website: Level-1: Task-3.
+## INTERACTIVE CALCULATOR: Level-1: Task-3.
 - This project is created as a part of *CODSOFT WEB DEVELOPMENT INETRNSHIP 2025*.
 - This porject showcases my skills and performance in HTML,CSS and Javascript aimed at building a interactive calculator.
 
@@ -11,7 +11,7 @@
 3.Javascript
 
 ## Live Demo
-https://srimathi109.github.io/CODSOFT/Task3.html
+https://srimathi109.github.io/codsoft_taskno.3/
 
 ## Video Demo
 https://www.linkedin.com/posts/srimathib06_codsoft-webdevelopment-internship-activity-7346897112602718209-g54C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
